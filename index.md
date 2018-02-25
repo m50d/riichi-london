@@ -11,6 +11,24 @@ A Riichi Mahjong tournament on November 3rd-4th 2018 at the [YHA London Lee Vall
 
 ## Schedule
 
+### Saturday November 3rd
+
+| 10:00 | Registration |
+| 10:20 | Announcements |
+| 10:30 | Hanchan 1 |
+| 12:00 | Lunch |
+| 13:30 | Hanchan 2 |
+| 15:20 | Hanchan 3 |
+| 17:10 | Hanchan 4 |
+
+### Sunday November 4th
+
+| 09:00 | Hanchan 5 |
+| 10:50 | Hanchan 6 |
+| 12:40 | Lunch |
+| 14:10 | Hanchan 7 |
+| 16:00 | Hanchan 8 |
+
 ## Registration
 
 ## Player List
