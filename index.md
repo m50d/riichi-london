@@ -9,7 +9,7 @@ A Riichi Mahjong tournament on November 3rd-4th 2018 at the [YHA London Lee Vall
 
 ## Format
 
-8-round round-robin style tournament following standard [Riichi Competition Rules](http://mahjong-europe.org/portal/images/docs/Riichi-rules-2016-EN.pdf). 
+8-round round-robin style tournament following standard [Riichi Competition Rules](http://mahjong-europe.org/portal/images/docs/Riichi-rules-2016-EN.pdf).
 
 ## Schedule
 
