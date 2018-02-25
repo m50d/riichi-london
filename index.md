@@ -23,7 +23,7 @@ From Heathrow, take the Heathrow Express to Paddington, then Circle or Hammersmi
 
 From Gatwick, take the Gatwick Express to Victoria, then the Victoria line to Tottenham Hale for a train to Cheshunt (80-90 minutes).
 
-From Luton, take a train to St Pancras, then the Victoria line to Tottenham Hale for a train to Cheshunt. (90 minutes)
+From Luton, take a train to St Pancras, then the Victoria line to Tottenham Hale for a train to Cheshunt (90 minutes).
 
 From London City, take the DLR to Stratford for a train to Cheshunt (60 minutes).
 
