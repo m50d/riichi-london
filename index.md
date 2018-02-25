@@ -25,6 +25,8 @@ From Gatwick, take the Gatwick Express to Victoria, then the Victoria line to To
 
 From Luton, take a train to St Pancras, then the Victoria line to Tottenham Hale for a train to Cheshunt. (90 minutes)
 
+From London City, take the DLR to Stratford for a train to Cheshunt (60 minutes).
+
 From Southend, take a train to Liverpool Street and change for a train to Cheshunt (80-90 minutes).
 
 From St Pancras International (Eurostar), take the Victoria line to Tottenham Hale for a train to Cheshunt. (30-40 minutes)
