@@ -20,6 +20,7 @@ A Riichi Mahjong tournament on November 3rd-4th 2018 at the [YHA London Lee Vall
 | 13:30 | Hanchan 2 |
 | 15:20 | Hanchan 3 |
 | 17:10 | Hanchan 4 |
+| 18:40 | End of day 1 |
 
 ### Sunday November 4th
 
@@ -28,6 +29,8 @@ A Riichi Mahjong tournament on November 3rd-4th 2018 at the [YHA London Lee Vall
 | 12:40 | Lunch |
 | 14:10 | Hanchan 7 |
 | 16:00 | Hanchan 8 |
+| 17:50 | Prizes |
+| 18:00 | End of day 2 |
 
 ## Registration
 
