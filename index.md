@@ -13,7 +13,11 @@ The YHA London Lee Valley is just around the corner from Cheshunt railway statio
 
 ### Public Transport
 
-From central London there are fast trains to Cheshunt every 15 minutes from Liverpool Street, taking around 20 minutes; there are 
+From central London there are fast trains to Cheshunt every 15 minutes from Liverpool Street, taking around 20 minutes. You can also board these trains at Tottenham Hale (Victoria Line). Please confirm before travel as these trains are sometimes diverted via Seven Sisters for weekend engineering works.
+
+### Airports and Eurostar
+
+For 
 
 
 ### Driving
