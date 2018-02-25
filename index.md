@@ -38,7 +38,7 @@ Entry is £60 which includes hot lunches on both days and tea/coffee/biscuits in
 
 ## Registration
 
-To register, please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with your name, EMA Number (if you have one), and nationality. Payment is by bank transfer to Michael Donaghy, sort code 11-04-05, account number 01241805; for international transfers use IBAN GB36HLFX11040501241805 and/or BIC HLFXGB21L76. Please include your surname and EMA number in the reference.
+To register, please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with your name, EMA Number (if you have one), and nationality. Payment is by bank transfer to Michael Donaghy, sort code 11-04-05, account number 01241805; for international transfers use IBAN GB36HLFX11040501241805 and/or BIC HLFXGB21L76. Please include your surname and EMA number in the reference for the transfer, and ensure any fees are paid on your side.
 
 ## Player List
 
