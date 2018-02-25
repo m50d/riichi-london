@@ -27,7 +27,7 @@ From central London there are fast trains to Cheshunt every 15 minutes from Live
 
 ### Airports
 
-Stansted is the best airport for Cheshunt as it's on the same train line. From Stansted, take the first train towards London Liverpool Street, and if Cheshunt is not listed as a stop then change at Harlow Town (30-45 minutes).
+Stansted is the most convenient airport for Cheshunt as it's on the same train line. From Stansted, take the first train towards London Liverpool Street, and if Cheshunt is not listed as a stop then change at Harlow Town (30-45 minutes).
 
 From Heathrow, take the Heathrow Express to Paddington, then Circle or Hammersmith & City Line to Liverpool Street for a train to Cheshunt (80 minutes). A cheaper option is to take the Picadilly line to Finsbury Park, then the Victoria line to Tottenham Hale for the train to Cheshunt (100 minutes).
 
