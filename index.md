@@ -17,7 +17,9 @@ From central London there are fast trains to Cheshunt every 15 minutes from Live
 
 ### Airports and Eurostar
 
-From St Pancras International (Eurostar), take the Victoria line to Tottenham Hale for a train to Cheshunt - 30-40 minutes. 
+Stansted is the best airport for Cheshunt as it's on the same train lines; take the first train towards London Liverpool Street, and if Cheshunt is not listed as a stop then change at Harlow Town. (30-45 minutes).
+
+From St Pancras International (Eurostar), take the Victoria line to Tottenham Hale for a train to Cheshunt - 30-40 minutes.
 
 
 ### Driving
