@@ -13,11 +13,13 @@ The YHA London Lee Valley is just around the corner from Cheshunt railway statio
 
 ### Public Transport
 
-From central London there are fast trains to Cheshunt every 15 minutes from Liverpool Street, taking around 20 minutes. You can also board these trains at Tottenham Hale (Victoria Line). Please confirm before travel as these trains are sometimes diverted via Seven Sisters for weekend engineering works.
+From central London there are fast trains to Cheshunt every 15 minutes from Liverpool Street, taking around 20 minutes - look for trains towards Cambridge, Hertford East or Stansted Airport (trains terminating at Cheshunt are slower stopping services). You can also board these trains at Tottenham Hale (Victoria Line). Please confirm before travel as these trains are sometimes diverted via Seven Sisters for weekend engineering works.
 
 ### Airports and Eurostar
 
-Stansted is the best airport for Cheshunt as it's on the same train lines; take the first train towards London Liverpool Street, and if Cheshunt is not listed as a stop then change at Harlow Town. (30-45 minutes).
+Stansted is the best airport for Cheshunt as it's on the same train line; take the first train towards London Liverpool Street, and if Cheshunt is not listed as a stop then change at Harlow Town. (30-45 minutes).
+
+Southend: take a train to Liverpool Street and change for a train 
 
 From St Pancras International (Eurostar), take the Victoria line to Tottenham Hale for a train to Cheshunt - 30-40 minutes.
 
