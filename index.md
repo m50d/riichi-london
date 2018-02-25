@@ -9,10 +9,11 @@ A Riichi Mahjong tournament on November 3rd-4th 2018 at the [YHA London Lee Vall
 
 ## Directions
 
-The YHA London Lee Valley is just around the corner from Cheshunt railway station - follow the brown signs. For players coming coming from central London, there are direct trains from Liverpool Street to Cheshunt every 10-15 minutes.
+The YHA London Lee Valley is just around the corner from Cheshunt railway station - follow the brown signs.
 
 ### Public Transport
 
+From central London there are fast trains to Cheshunt every 15 minutes from Liverpool Street, taking around 20 minutes; there are 
 
 
 ### Driving
