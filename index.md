@@ -9,9 +9,11 @@ A Riichi Mahjong tournament on November 3rd-4th 2018 at the [YHA London Lee Vall
 
 ## Directions
 
+The YHA London Lee Valley is just around the corner from Cheshunt railway station.
+
 ### Public Transport
 
-The YHA London Lee Valley is just around the corner from Cheshunt railway station.
+
 
 ### Driving
 
