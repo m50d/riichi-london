@@ -34,7 +34,12 @@ A Riichi Mahjong tournament on November 3rd-4th 2018 at the [YHA London Lee Vall
 
 ## Registration
 
+Please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with your name, 
+
 ## Player List
+
+| Name | EMA No. | Nationality | Paid |
+| --- | --- | --- | --- |
 
 ## Accomodation
 
