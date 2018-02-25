@@ -45,8 +45,6 @@ To register, please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with
 | Name | EMA Number | Nationality | Paid |
 | --- | --- | --- | --- |
 
-## Accomodation
-
 ## Directions
 
 The YHA London Lee Valley ([Google Maps link](https://www.google.co.uk/maps/place/YHA+London+Lee+Valley+Hostel/@51.7040433,-0.024479,17z/data=!3m1!4b1!4m5!3m4!1s0x4876203f0859da9b:0x3caae9bacd1f4cc6!8m2!3d51.70404!4d-0.022285)) is just around the corner from Cheshunt railway station (1 minute walk) - follow the brown signs.
@@ -73,7 +71,14 @@ From Southend, take a train to Liverpool Street and change for a train to Cheshu
 
 From St Pancras International, take the Victoria line to Tottenham Hale for a train to Cheshunt. (30-40 minutes)
 
-
 ### Driving
 
-Leave the M25 at junction 25 and take the A10, follow the signs for Cheshunt railway station, follow brown tourism signs to the hostel.
+Leave the M25 at junction 25 and take the A10, follow the signs for Cheshunt railway station, then follow the brown signs.
+
+## Suggested Accomodation
+
+The [YHA London Lee Valley](https://www.yha.org.uk/hostel/london-lee-valley) offers youth hostel accommodation at low prices, right at the tournament venue.
+
+The newly-built [Premier Inn Tottenham Hale](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-tottenham-hale.html) has good standard accomodation just outside Tottenham Hale station, a 10-minute direct train journey to/from the tournament venue.
+
+The [Cheshunt Mariott Hotel](https://www.marriott.co.uk/hotels/travel/stnch-cheshunt-marriott-hotel/) is a luxury option, but be warned it's at the other end of Cheshunt (35 minute walk).
