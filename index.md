@@ -9,7 +9,7 @@ A Riichi Mahjong tournament on November 3rd-4th 2018 at the [YHA London Lee Vall
 
 ## Format
 
-8-round round-robin style tournament following [EMA Riichi Competition Rules](http://mahjong-europe.org/portal/images/docs/Riichi-rules-2016-EN.pdf).
+8-round round-robin style tournament following [EMA Riichi Competition Rules](http://mahjong-europe.org/portal/images/docs/Riichi-rules-2016-EN.pdf). While this is an open event we ask players to keep to a tournament-level standard and ensure all rules and penalties are enforced.
 
 Entry is £60 which includes hot lunches on both days and tea/coffee/biscuits in all breaks.
 
