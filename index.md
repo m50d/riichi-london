@@ -9,7 +9,7 @@ A Riichi Mahjong tournament on November 3rd-4th 2018 at the [YHA London Lee Vall
 
 ## Format
 
-8-round round-robin style tournament following [EMA Riichi Competition Rules](http://mahjong-europe.org/portal/images/docs/Riichi-rules-2016-EN.pdf). While this is an open event we ask players to keep to a tournament-level standard and ensure all rules and penalties are enforced.
+8-round round-robin style tournament following [EMA Riichi Competition Rules](http://mahjong-europe.org/portal/images/docs/Riichi-rules-2016-EN.pdf). While this is an open event we ask players to keep to a tournament-level standard and ensure all rules and penalties are enforced. There will be two EMA-certified non-player referees.
 
 Entry is £60 which includes hot lunches on both days and tea/coffee/biscuits in all breaks.
 
@@ -49,7 +49,7 @@ Please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with your name,
 
 ## Directions
 
-The YHA London Lee Valley is just around the corner from Cheshunt railway station (1 minute walk) - follow the brown signs.
+The YHA London Lee Valley ([Google Maps link](https://www.google.co.uk/maps/place/YHA+London+Lee+Valley+Hostel/@51.7040433,-0.024479,17z/data=!3m1!4b1!4m5!3m4!1s0x4876203f0859da9b:0x3caae9bacd1f4cc6!8m2!3d51.70404!4d-0.022285)) is just around the corner from Cheshunt railway station (1 minute walk) - follow the brown signs.
 
 ### Public Transport
 
