@@ -13,6 +13,8 @@ A Riichi Mahjong tournament on November 3rd-4th 2018 at the [YHA London Lee Vall
 
 Entry is £60 which includes hot lunches on both days and tea/coffee/biscuits in all breaks.
 
+Limited to 40 players.
+
 ## Schedule
 
 ### Saturday November 3rd
