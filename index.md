@@ -9,7 +9,7 @@ A Riichi Mahjong tournament on November 3rd-4th 2018 at the [YHA London Lee Vall
 
 ## Format
 
-7-round round-robin style tournament following [EMA Riichi Competition Rules](http://mahjong-europe.org/portal/images/docs/Riichi-rules-2016-EN.pdf). While this is an open event we ask players to keep to a tournament-level standard and ensure all rules and penalties are enforced. There will be two EMA-certified non-player referees.
+8-round round-robin style tournament following [EMA Riichi Competition Rules](http://mahjong-europe.org/portal/images/docs/Riichi-rules-2016-EN.pdf). While this is an open event we ask players to keep to a tournament-level standard and ensure all rules and penalties are enforced. There will be two EMA-certified non-player referees.
 
 Entry is £60 which includes hot lunches on both days and tea/coffee/biscuits in all breaks.
 
@@ -19,23 +19,24 @@ Limited to 40 players.
 
 ### Saturday November 3rd
 
-| 10:00 | Registration |
-| 10:20 | Announcements |
-| 10:30 | Hanchan 1 |
-| 12:00 | Lunch |
-| 13:30 | Hanchan 2 |
-| 15:20 | Hanchan 3 |
-| 17:10 | Hanchan 4 |
-| 18:40 | End of day 1 |
+| 08:40 | Registration |
+| 09:10 | Announcements |
+| 09:20 | Hanchan 1 |
+| 11:10 | Hanchan 2 |
+| 12:40 | Lunch |
+| 14:10 | Hanchan 3 |
+| 16:00 | Hanchan 3 |
+| 17:50 | Hanchan 5 |
+| 19:20 | End of day 1 |
 
 ### Sunday November 4th
 
 | 09:00 | Hanchan 5 |
 | 10:50 | Hanchan 6 |
-| 12:40 | Lunch |
-| 14:10 | Hanchan 7 |
-| 16:00 | Prizes |
-| 16:10 | End of day 2 |
+| 12:20 | Lunch |
+| 13:50 | Hanchan 7 |
+| 15:40 | Prizes |
+| 16:00 | End of day 2 |
 
 ## Registration
 
