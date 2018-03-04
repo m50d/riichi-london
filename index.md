@@ -31,11 +31,11 @@ Limited to 40 players.
 
 ### Sunday November 4th
 
-| 09:00 | Hanchan 5 |
-| 10:50 | Hanchan 6 |
-| 12:20 | Lunch |
-| 13:50 | Hanchan 7 |
-| 15:40 | Prizes |
+| 09:10 | Hanchan 5 |
+| 11:00 | Hanchan 6 |
+| 12:30 | Lunch |
+| 14:00 | Hanchan 7 |
+| 15:50 | Prizes |
 | 16:00 | End of day 2 |
 
 ## Registration
