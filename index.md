@@ -25,7 +25,7 @@ Limited to 40 players.
 | 11:10 | Hanchan 2 |
 | 12:40 | Lunch |
 | 14:10 | Hanchan 3 |
-| 16:00 | Hanchan 3 |
+| 16:00 | Hanchan 4 |
 | 17:50 | Hanchan 5 |
 | 19:20 | End of day 1 |
 
