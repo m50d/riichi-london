@@ -52,7 +52,6 @@ To register, please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with
 
 <div id="map"></div>
 <div id="pano"></div>
-</div>
 <script type="text/javascript">
       function initialize() {
         var hostel = {lat: 51.7040419, lng: -0.0222977 };
