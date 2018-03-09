@@ -52,28 +52,8 @@ To register, please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with
 
 <div id="map" style="float: left; height: 400px; width: 50%"></div>
 <div id="pano" style="float: left; height: 400px; width: 50%"></div>
-<script type="text/javascript">
-      function initialize() {
-        var hostel = {lat: 51.7040433, lng: -0.024479 };
-        var map = new google.maps.Map(document.getElementById('map'), {
-          center: hostel,
-          zoom: 12
-        });
-        var panorama = new google.maps.StreetViewPanorama(
-            document.getElementById('pano'), {
-              position: hostel,
-              pov: {
-                heading: 300,
-                pitch: 10
-              }
-            });
-        map.setStreetView(panorama);
-      }
-</script>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBDPE5uiVh2j4lhGckCD9U6jWYwY5JNj3Q&callback=initialize" type="text/javascript">
-</script>
 
-The YHA London Lee Valley ([Google Maps link](https://www.google.co.uk/maps/place/YHA+London+Lee+Valley+Hostel/@51.7040433,-0.024479,17z/data=!3m1!4b1!4m5!3m4!1s0x4876203f0859da9b:0x3caae9bacd1f4cc6!8m2!3d51.70404!4d-0.022285)) is just around the corner from Cheshunt railway station (1 minute walk) - follow the brown signs.
+The YHA London Lee Valley is just around the corner from Cheshunt railway station (1 minute walk) - follow the brown signs.
 
 ### Public Transport
 
