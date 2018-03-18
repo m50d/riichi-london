@@ -50,7 +50,8 @@ To register, please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with
 
 | Name | EMA Number | Nationality | Paid |
 | --- | --- | --- | --- |
-| | | | |
+| Martin Lester | 11990044 | GBR | |
+| Chris Endicott | 11990060 | GBR | |
 
 ## Directions
 
