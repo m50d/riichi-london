@@ -52,6 +52,7 @@ To register, please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with
 | --- | --- | --- | --- |
 | Martin Lester | 11990044 | GBR | |
 | Chris Endicott | 11990060 | GBR | |
+| Joël Ratsimandresy | 04040057 | FRA | |
 
 ## Directions
 
