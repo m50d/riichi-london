@@ -48,11 +48,15 @@ To register, please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with
 
 ## Player List
 
-| Name | EMA Number | Nationality | Paid |
-| --- | --- | --- | --- |
-| Martin Lester | 11990044 | GBR | (./) |
-| Chris Endicott | 11990060 | GBR | |
-| Joël Ratsimandresy | 04040057 | FRA | |
+| | Name | EMA Number | Nationality | Paid |
+| --- | --- | --- | --- | --- |
+| 1 | Martin Lester | 11990044 | GBR | ✓ |
+| 2 | Chris Endicott | 11990060 | GBR | |
+| 3 | Joël Ratsimandresy | 04040057 | FRA | |
+| 4 | Jason He | 11990093 | | |
+| 5 | Melanie Steck | 16000033 | SUI | |
+| 6 | Devina Steck | 16000029 | SUI | |
+| 7 | Shaun Drury | 11990059 | GBR | |
 
 ## Directions
 
