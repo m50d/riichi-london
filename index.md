@@ -53,7 +53,7 @@ To register, please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with
 | 1 | Martin Lester | 11990044 | GBR | ✓ |
 | 2 | Chris Endicott | 11990060 | GBR | |
 | 3 | Joël Ratsimandresy | 04040057 | FRA | |
-| 4 | Jason He | 11990093 | | |
+| 4 | Jason He | 11990093 | GBR | |
 | 5 | Melanie Steck | 16000033 | SUI | |
 | 6 | Devina Steck | 16000029 | SUI | |
 | 7 | Shaun Drury | 11990059 | GBR | |
