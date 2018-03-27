@@ -60,7 +60,7 @@ To register, please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with
 | 8 | Andrew ZP Smith | 11990097 | GBR | ✓ |
 | 9 | Philip Bielby | 11990057 | GBR | ✓ |
 | 10 | Yurii Kotsar | | UKR | |
-| 11 | Max Bowsher | 11990074 | GBR | |
+| 11 | Max Bowsher | 11990074 | GBR | ✓ |
 | 12 | Mark Haines | 11990077 | GBR | ✓ |
 
 ## Directions
