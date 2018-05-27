@@ -63,6 +63,7 @@ To register, please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with
 | 11 | Max Bowsher | 11990074 | GBR | ✓ |
 | 12 | Mark Haines | 11990077 | GBR | ✓ |
 | 13 | David Clarke | 11990047 | GBR | |
+| 14 | Daniel Moreno | | USA | |
 
 ## Directions
 
