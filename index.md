@@ -65,6 +65,7 @@ To register, please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with
 | 13 | David Clarke | 11990047 | GBR | |
 | 14 | Daniel Moreno | | USA | |
 | 15 | Kristiina Kuusela | 14990020 | FIN | |
+| 16 | Timur Hahn | 05100153 | GER | |
 
 ## Directions
 
