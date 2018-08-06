@@ -67,6 +67,8 @@ To register, please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with
 | 15 | Kristiina Kuusela | 14990020 | FIN | |
 | 16 | Timur Hahn | 05100153 | GER | |
 | 17 | Maria Chapman | | GBR | ✓ |
+| 18 | Piotr Baranowski | | GBR | |
+| 19 | Chris Rowe | 11990029 | GBR | |
 
 ## Directions
 
