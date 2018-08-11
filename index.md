@@ -69,6 +69,9 @@ To register, please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with
 | 17 | Maria Chapman | | GBR | ✓ |
 | 18 | Piotr Baranowski | | GBR | |
 | 19 | Chris Rowe | 11990029 | GBR | |
+| 20 | Peter Langford | 11990004 | GBR | |
+| 21 | Mike Short | | GBR | |
+| 22 | Piotr Baranowski | 11990098 | GBR | |
 
 ## Directions
 
