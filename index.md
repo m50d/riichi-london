@@ -73,6 +73,7 @@ To register, please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with
 | 21 | Mike Short | | GBR | |
 | 22 | Piotr Baranowski | 11990098 | GBR | |
 | 23 | H John Duckworth | | GBR | |
+| 24 | Marcus Völker | 05100157 | GER | |
 
 ## Directions
 
