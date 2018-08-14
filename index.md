@@ -73,6 +73,7 @@ To register, please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with
 | 21 | Mike Short | | GBR | |
 | 22 | H John Duckworth | 11990016 | GBR | |
 | 23 | Marcus Völker | 05100157 | GER | |
+| 24 | Philipp Martin | 05100108 | GER | |
 
 ## Directions
 
