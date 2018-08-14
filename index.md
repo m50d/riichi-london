@@ -67,13 +67,12 @@ To register, please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with
 | 15 | Kristiina Kuusela | 14990020 | FIN | |
 | 16 | Timur Hahn | 05100153 | GER | |
 | 17 | Maria Chapman | | GBR | ✓ |
-| 18 | Piotr Baranowski | | GBR | |
+| 18 | Piotr Baranowski | 11990098 | GBR | |
 | 19 | Chris Rowe | 11990029 | GBR | |
 | 20 | Peter Langford | 11990004 | GBR | |
 | 21 | Mike Short | | GBR | |
-| 22 | Piotr Baranowski | 11990098 | GBR | |
-| 23 | H John Duckworth | | GBR | |
-| 24 | Marcus Völker | 05100157 | GER | |
+| 22 | H John Duckworth | | GBR | |
+| 23 | Marcus Völker | 05100157 | GER | |
 
 ## Directions
 
