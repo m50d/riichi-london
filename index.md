@@ -71,7 +71,7 @@ To register, please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with
 | 19 | Chris Rowe | 11990029 | GBR | |
 | 20 | Peter Langford | 11990004 | GBR | |
 | 21 | Mike Short | | GBR | |
-| 22 | H John Duckworth | 11990016 | GBR | |
+| 22 | H John Duckworth | 11990016 | GBR | ✓ |
 | 23 | Marcus Völker | 05100157 | GER | |
 | 24 | Philipp Martin | 05100108 | GER | |
 
