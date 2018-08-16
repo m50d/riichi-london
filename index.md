@@ -74,6 +74,7 @@ To register, please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with
 | 22 | H John Duckworth | 11990016 | GBR | ✓ |
 | 23 | Marcus Völker | 05100157 | GER | |
 | 24 | Philipp Martin | 05100108 | GER | |
+| 25 | Tom Wood | 11990073 | GBR | |
 
 ## Directions
 
