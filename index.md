@@ -44,7 +44,7 @@ Limited to 40 players.
 
 ## Registration
 
-To register, please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with your name, EMA Number (if you have one), and nationality. Payment is by bank transfer to Michael Donaghy, sort code 11-04-05, account number 01241805; for international transfers you may need IBAN GB36HLFX11040501241805 and/or BIC HLFXGB21L76. Please include your surname and EMA number in the reference for the transfer, and ensure any fees are paid on your side - I recommend [Transferwise](https://transferwise.com/) as it's often cheaper than using a bank for international payment.
+To register, please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with your name, EMA Number (if you have one), and nationality. Payment is by bank transfer to Michael Donaghy, sort code 11-04-05, account number 01241805; for international transfers you may need IBAN GB36HLFX11040501241805 and/or BIC HLFXGB21L76. Please include your surname and EMA number in the reference for the transfer, and ensure any fees are paid on your side - I recommend [Transferwise](https://transferwise.com/) as it's often cheaper than using a bank for international payment. The registration/payment deadline is September 30th.
 
 ## Player List
 
@@ -75,6 +75,7 @@ To register, please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with
 | 23 | Marcus Völker | 05100157 | GER | |
 | 24 | Philipp Martin | 05100108 | GER | |
 | 25 | Tom Wood | 11990073 | GBR | |
+| 26 | Anthony EA | 04040105 | FRA | |
 
 ## Directions
 
