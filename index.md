@@ -64,7 +64,7 @@ To register, please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with
 | 12 | Mark Haines | 11990077 | GBR | ✓ |
 | 13 | David Clarke | 11990047 | GBR | |
 | 14 | Daniel Moreno | | USA | |
-| 15 | Kristiina Kuusela | 14990020 | FIN | |
+| 15 | Kristiina Kuusela | 14990020 | FIN | ✓ |
 | 16 | Timur Hahn | 05100153 | GER | |
 | 17 | Maria Chapman | | GBR | ✓ |
 | 18 | Piotr Baranowski | 11990098 | GBR | |
