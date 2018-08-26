@@ -76,6 +76,7 @@ To register, please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with
 | 24 | Philipp Martin | 05100108 | GER | |
 | 25 | Tom Wood | 11990073 | GBR | |
 | 26 | Anthony EA | 04040105 | FRA | |
+| 27 | Olivier CAO | 04160035 | FRA | |
 
 ## Directions
 
