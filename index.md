@@ -78,6 +78,8 @@ To register, please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with
 | 26 | Anthony EA | 04040105 | FRA | |
 | 27 | Olivier CAO | 04160035 | FRA | |
 | 28 | Birgit Beckett | 11990092 | GER | |
+| 29 | Nick Dyer | 11990011 | GBR | ✓ |
+| 30 | Paola Bungaro | 11990010 | GBR | ✓ |
 
 ## Directions
 
