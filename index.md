@@ -82,6 +82,8 @@ To register, please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with
 | 30 | Paola Bungaro | 11990010 | GBR | ✓ |
 | 31 | Jem Short | 11990084 | GBR | |
 | 32 | Norma Todd | 11990095 | GBR | ✓ |
+| 33 | Oliver Burrows | | GBR | ✓ |
+| 34 | Benjamin Savoy | | GBR | |
 
 ## Directions
 
