@@ -68,7 +68,7 @@ To register, please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with
 | 16 | Timur Hahn | 05100153 | GER | |
 | 17 | Maria Chapman | | GBR | ✓ |
 | 18 | Piotr Baranowski | 11990098 | GBR | |
-| 19 | Chris Rowe | 11990029 | GBR | |
+| 19 | Chris Rowe | 11990029 | GBR | ✓ |
 | 20 | Peter Langford | 11990004 | GBR | |
 | 21 | Mike Short | | GBR | |
 | 22 | H John Duckworth | 11990016 | GBR | ✓ |
@@ -76,7 +76,7 @@ To register, please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with
 | 24 | Philipp Martin | 05100108 | GER | |
 | 25 | Tom Wood | 11990073 | GBR | ✓ |
 | 26 | Anthony EA | 04040105 | FRA | |
-| 27 | Olivier CAO | 04160035 | FRA | |
+| 27 | Olivier CAO | 04160035 | FRA | ✓ |
 | 28 | Birgit Beckett | 11990092 | GER | ✓ |
 | 29 | Nick Dyer | 11990011 | GBR | ✓ |
 | 30 | Paola Bungaro | 11990010 | GBR | ✓ |
