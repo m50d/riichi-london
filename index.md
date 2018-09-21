@@ -94,7 +94,7 @@ The YHA London Lee Valley ([Google Maps link](https://www.google.co.uk/maps/plac
 
 ### Public Transport
 
-From central London there are fast trains to Cheshunt every 15 minutes from Liverpool Street, taking around 20 minutes - look for trains towards Cambridge, Hertford East or Stansted Airport (trains terminating at Cheshunt are slower stopping services). You can also board these trains at Tottenham Hale (Victoria Line). Please confirm before travel as these trains are sometimes diverted via Seven Sisters for weekend engineering works.
+From central London there are fast trains to Cheshunt every 15 minutes from Liverpool Street, taking around 20 minutes - look for trains towards Cambridge, Hertford East or Stansted Airport (trains terminating at Cheshunt are slower stopping services). You can also board these trains at Seven Sisters (Victoria Line) (Tottenham Hale if traveling on Friday 2nd).
 
 ### Airports
 
@@ -102,9 +102,9 @@ Stansted is the most convenient airport for Cheshunt as it's on the same train l
 
 From Heathrow, take the Heathrow Express to Paddington, then Circle or Hammersmith & City Line to Liverpool Street for a train to Cheshunt (80 minutes). A cheaper option is to take the Picadilly line to Finsbury Park, then the Victoria line to Tottenham Hale for the train to Cheshunt (100 minutes).
 
-From Gatwick, take the Gatwick Express to Victoria, then the Victoria line to Tottenham Hale for a train to Cheshunt (80-90 minutes).
+From Gatwick, take the Gatwick Express to Victoria, then the Victoria line to Seven Sisters (Tottenham Hale if traveling on Friday 2nd) for a train to Cheshunt (80-90 minutes).
 
-From Luton, take a train to St Pancras, then the Victoria line to Tottenham Hale for a train to Cheshunt (90 minutes).
+From Luton, take a train to St Pancras, then the Victoria line to Seven Sisters (Tottenham Hale if traveling on Friday 2nd) for a train to Cheshunt (90 minutes).
 
 From London City airport, take the DLR to Stratford for a train to Cheshunt (60 minutes).
 
@@ -112,16 +112,16 @@ From Southend, take a train to Liverpool Street and change for a train to Cheshu
 
 ### Eurostar
 
-From St Pancras International, take the Victoria line to Tottenham Hale for a train to Cheshunt. (30-40 minutes)
+From St Pancras International, take the Victoria line to Seven Sisters (Tottenham Hale if traveling on Friday 2nd) for a train to Cheshunt. (30-40 minutes)
 
 ### Driving
 
-Leave the M25 at junction 25 and take the A10, follow the signs for Cheshunt railway station, then follow the brown signs.
+Leave the M25 at junction 25 and take the A10, follow the signs for Cheshunt railway station, then follow the brown signs to the YHA London Lee Valley.
 
 ## Suggested Accomodation
 
 The [YHA London Lee Valley](https://www.yha.org.uk/hostel/london-lee-valley) offers youth hostel accommodation at low prices, right at the tournament venue.
 
-The newly-built [Premier Inn Tottenham Hale](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-tottenham-hale.html) has good standard accomodation just outside Tottenham Hale station, a 10-minute direct train journey to/from the tournament venue.
+The newly-built [Premier Inn Tottenham Hale](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-tottenham-hale.html) has good standard accomodation within walking distance of Seven Sisters station, a 10-minute direct train journey to/from the tournament venue.
 
 The [Cheshunt Mariott Hotel](https://www.marriott.co.uk/hotels/travel/stnch-cheshunt-marriott-hotel/) is a luxury option, but be warned it's at the other end of Cheshunt (35 minute walk, or a 5-minute bus ride and two 10-minute walks).
