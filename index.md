@@ -21,6 +21,10 @@ Limited to 40 players.
 
 ## Schedule
 
+### Friday November 2nd
+
+Some of us will attend the [Cheshunt Country Club Fireworks Night](https://www.tickettailor.com/events/cheshuntcountrycluclub/187767/#) - note you must buy tickets in advance if you want to come.
+
 ### Saturday November 3rd
 
 | 08:40 | Registration |
