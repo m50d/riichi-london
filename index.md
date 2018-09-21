@@ -63,7 +63,7 @@ To register, please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with
 | 11 | Max Bowsher | 11990074 | GBR | ✓ |
 | 12 | Mark Haines | 11990077 | GBR | ✓ |
 | 13 | David Clarke | 11990047 | GBR | |
-| 14 | Daniel Moreno | | USA | |
+| 14 | Daniel Moreno | | USA | ✓ |
 | 15 | Kristiina Kuusela | 14990020 | FIN | ✓ |
 | 16 | Timur Hahn | 05100153 | GER | |
 | 17 | Maria Chapman | | GBR | ✓ |
@@ -83,7 +83,7 @@ To register, please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with
 | 31 | Jem Short | 11990084 | GBR | |
 | 32 | Norma Todd | 11990095 | GBR | ✓ |
 | 33 | Oliver Burrows | | GBR | ✓ |
-| 34 | Benjamin Savoy | | GBR | |
+| 34 | Benjamin Savoy | | GBR | ✓ |
 
 ## Directions
 
