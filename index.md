@@ -74,7 +74,7 @@ To register, please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with
 | 18 | Peter Langford | 11990004 | GBR | ✓ |
 | 19 | Mike Short | | GBR | |
 | 20 | H John Duckworth | 11990016 | GBR | ✓ |
-| 21 | Marcus Völker | 05100157 | GER | |
+| 21 | Marcus Völker | 05100157 | GER | ✓ |
 | 22 | Philipp Martin | 05100108 | GER | |
 | 23 | Tom Wood | 11990073 | GBR | ✓ |
 | 24 | Anthony EA | 04040105 | FRA | |
