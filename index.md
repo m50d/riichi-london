@@ -87,6 +87,7 @@ To register, please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with
 | 31 | Oliver Burrows | | GBR | ✓ |
 | 32 | Benjamin Savoy | | GBR | ✓ |
 | 33 | Selina Steck | 16000028  | SUI | ✓ |
+| 34 | Aidan Robison | 11990028 | GBR | |
 
 ## Directions
 
