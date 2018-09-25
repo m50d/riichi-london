@@ -82,12 +82,12 @@ To register, please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with
 | 26 | Birgit Beckett | 11990092 | GER | ✓ |
 | 27 | Nick Dyer | 11990011 | GBR | ✓ |
 | 28 | Paola Bungaro | 11990010 | GBR | ✓ |
-| 29 | Jem Short | 11990084 | GBR | |
+| 29 | Jem Short | 11990084 | GBR | ✓ |
 | 30 | Norma Todd | 11990095 | GBR | ✓ |
 | 31 | Oliver Burrows | | GBR | ✓ |
 | 32 | Benjamin Savoy | | GBR | ✓ |
 | 33 | Selina Steck | 16000028  | SUI | ✓ |
-| 34 | Aidan Robison | 11990028 | GBR | |
+| 34 | Aidan Robison | 11990028 | GBR | ✓ |
 
 ## Directions
 
