@@ -64,7 +64,7 @@ To register, please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with
 | 8 | Philip Bielby | 11990057 | GBR | ✓ |
 | 9 | Max Bowsher | 11990074 | GBR | ✓ |
 | 10 | Mark Haines | 11990077 | GBR | ✓ |
-| 11 | David Clarke | 11990047 | GBR | |
+| 11 | David Clarke | 11990047 | GBR | ✓ |
 | 12 | Daniel Moreno | | USA | ✓ |
 | 13 | Kristiina Kuusela | 14990020 | FIN | ✓ |
 | 14 | Timur Hahn | 05100153 | GER | |
@@ -72,7 +72,7 @@ To register, please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with
 | 16 | Piotr Baranowski | 11990098 | GBR | |
 | 17 | Chris Rowe | 11990029 | GBR | ✓ |
 | 18 | Peter Langford | 11990004 | GBR | ✓ |
-| 19 | Mike Short | | GBR | |
+| 19 | Mike Short | | GBR | ✓ |
 | 20 | H John Duckworth | 11990016 | GBR | ✓ |
 | 21 | Marcus Völker | 05100157 | GER | ✓ |
 | 22 | Philipp Martin | 05100108 | GER | ✓ |
