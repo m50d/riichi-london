@@ -48,7 +48,7 @@ Some of us will attend the [Cheshunt Country Club Fireworks Night](https://www.t
 
 ## Registration
 
-To register, please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with your name, EMA Number (if you have one), and nationality. Payment is by bank transfer to Michael Donaghy, sort code 11-04-05, account number 01241805; for international transfers you may need IBAN GB36HLFX11040501241805 and/or BIC HLFXGB21L76. Please include your surname and EMA number in the reference for the transfer, and ensure any fees are paid on your side - I recommend [Transferwise](https://transferwise.com/) as it's often cheaper than using a bank for international payment. The registration/payment deadline is September 30th.
+Registration is now closed but there may be limited places available as players drop out. To be added to the waiting list, email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with your name, EMA Number (if you have one), and nationality. Payment is by bank transfer to Michael Donaghy, sort code 11-04-05, account number 01241805; for international transfers you may need IBAN GB36HLFX11040501241805 and/or BIC HLFXGB21L76. Please include your surname and EMA number in the reference for the transfer, and ensure any fees are paid on your side - I recommend [Transferwise](https://transferwise.com/) as it's often cheaper than using a bank for international payment.
 
 ## Player List
 
@@ -87,11 +87,12 @@ To register, please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with
 | 31 | Kevin Lin | | AUS | ✓ |
 | 32 | Russel Chan | 11990100 | GBR | |
 
-<!--
+## Waiting List / Unpaid
+
 | | Shaun Drury | 11990059 | GBR | |
 | | Piotr Baranowski | 11990098 | GBR | |
 | | Timur Hahn | 05100153 | GER | |
-| | Anthony EA | 04040105 | FRA | | -->
+| | Anthony EA | 04040105 | FRA | |
 
 ## Directions
 
