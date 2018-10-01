@@ -85,13 +85,13 @@ To register, please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with
 | 29 | Selina Steck | 16000028  | SUI | ✓ |
 | 30 | Aidan Robison | 11990028 | GBR | ✓ |
 | 31 | Kevin Lin | | AUS | ✓ |
+| | Russel Chan | 11990100 | GBR | |
 
 <!--
 | | Shaun Drury | 11990059 | GBR | |
 | | Piotr Baranowski | 11990098 | GBR | |
 | | Timur Hahn | 05100153 | GER | |
-| | Anthony EA | 04040105 | FRA | |
-| | Russel Chan | 11990100 | GBR | | -->
+| | Anthony EA | 04040105 | FRA | | -->
 
 ## Directions
 
