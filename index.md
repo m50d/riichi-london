@@ -86,13 +86,13 @@ Registration is now closed but there may be limited places available as players 
 | 30 | Aidan Robison | 11990028 | GBR | ✓ |
 | 31 | Kevin Lin | | AUS | ✓ |
 | 32 | Russel Chan | 11990100 | GBR | |
+| 33 | Shaun Drury | 11990059 | GBR | ✓ |
+| 34 | Anthony EA | 04040105 | FRA | ✓ |
 
 ## Waiting List / Unpaid
 
-| | Shaun Drury | 11990059 | GBR | |
 | | Piotr Baranowski | 11990098 | GBR | |
 | | Timur Hahn | 05100153 | GER | |
-| | Anthony EA | 04040105 | FRA | |
 
 ## Directions
 
