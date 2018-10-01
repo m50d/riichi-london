@@ -85,7 +85,7 @@ To register, please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with
 | 29 | Selina Steck | 16000028  | SUI | ✓ |
 | 30 | Aidan Robison | 11990028 | GBR | ✓ |
 | 31 | Kevin Lin | | AUS | ✓ |
-| | Russel Chan | 11990100 | GBR | |
+| 32 | Russel Chan | 11990100 | GBR | |
 
 <!--
 | | Shaun Drury | 11990059 | GBR | |
