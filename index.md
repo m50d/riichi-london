@@ -85,7 +85,7 @@ Registration is now closed but there may be limited places available as players 
 | 29 | Selina Steck | 16000028  | SUI | ✓ |
 | 30 | Aidan Robison | 11990028 | GBR | ✓ |
 | 31 | Kevin Lin | | AUS | ✓ |
-| 32 | Russel Chan | 11990100 | GBR | |
+| 32 | Russell Chan | 11990100 | GBR | |
 | 33 | Shaun Drury | 11990059 | GBR | ✓ |
 | 34 | Anthony EA | 04040105 | FRA | ✓ |
 
