@@ -59,36 +59,38 @@ To register, please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with
 | 3 | Joël Ratsimandresy | 04040057 | FRA | ✓ |
 | 4 | Jason He | 11990093 | GBR | ✓ |
 | 5 | Devina Steck | 16000029 | SUI | ✓ |
-| 6 | Shaun Drury | 11990059 | GBR | |
-| 7 | Andrew ZP Smith | 11990097 | GBR | ✓ |
-| 8 | Philip Bielby | 11990057 | GBR | ✓ |
-| 9 | Max Bowsher | 11990074 | GBR | ✓ |
-| 10 | Mark Haines | 11990077 | GBR | ✓ |
-| 11 | David Clarke | 11990047 | GBR | ✓ |
-| 12 | Daniel Moreno | | USA | ✓ |
-| 13 | Kristiina Kuusela | 14990020 | FIN | ✓ |
-| 14 | Timur Hahn | 05100153 | GER | |
-| 15 | Maria Chapman | | GBR | ✓ |
-| 16 | Piotr Baranowski | 11990098 | GBR | |
-| 17 | Chris Rowe | 11990029 | GBR | ✓ |
-| 18 | Peter Langford | 11990004 | GBR | ✓ |
-| 19 | Mike Short | | GBR | ✓ |
-| 20 | H John Duckworth | 11990016 | GBR | ✓ |
-| 21 | Marcus Völker | 05100157 | GER | ✓ |
-| 22 | Philipp Martin | 05100108 | GER | ✓ |
-| 23 | Tom Wood | 11990073 | GBR | ✓ |
-| 24 | Anthony EA | 04040105 | FRA | |
-| 25 | Olivier CAO | 04160035 | FRA | ✓ |
-| 26 | Birgit Beckett | 11990092 | GER | ✓ |
-| 27 | Nick Dyer | 11990011 | GBR | ✓ |
-| 28 | Paola Bungaro | 11990010 | GBR | ✓ |
-| 29 | Jem Short | 11990084 | GBR | ✓ |
-| 30 | Norma Todd | 11990095 | GBR | ✓ |
-| 31 | Oliver Burrows | | GBR | ✓ |
-| 32 | Benjamin Savoy | | GBR | ✓ |
-| 33 | Selina Steck | 16000028  | SUI | ✓ |
-| 34 | Aidan Robison | 11990028 | GBR | ✓ |
-| 35 | Kevin Lin | | AUS | |
+| 6 | Andrew ZP Smith | 11990097 | GBR | ✓ |
+| 7 | Philip Bielby | 11990057 | GBR | ✓ |
+| 8 | Max Bowsher | 11990074 | GBR | ✓ |
+| 9 | Mark Haines | 11990077 | GBR | ✓ |
+| 10 | David Clarke | 11990047 | GBR | ✓ |
+| 11 | Daniel Moreno | | USA | ✓ |
+| 12 | Kristiina Kuusela | 14990020 | FIN | ✓ |
+| 13 | Maria Chapman | | GBR | ✓ |
+| 14 | Chris Rowe | 11990029 | GBR | ✓ |
+| 15 | Peter Langford | 11990004 | GBR | ✓ |
+| 16 | Mike Short | | GBR | ✓ |
+| 17 | H John Duckworth | 11990016 | GBR | ✓ |
+| 18 | Marcus Völker | 05100157 | GER | ✓ |
+| 19 | Philipp Martin | 05100108 | GER | ✓ |
+| 20 | Tom Wood | 11990073 | GBR | ✓ |
+| 21 | Anthony EA | 04040105 | FRA | |
+| 22 | Olivier CAO | 04160035 | FRA | ✓ |
+| 23 | Birgit Beckett | 11990092 | GER | ✓ |
+| 24 | Nick Dyer | 11990011 | GBR | ✓ |
+| 25 | Paola Bungaro | 11990010 | GBR | ✓ |
+| 26 | Jem Short | 11990084 | GBR | ✓ |
+| 27 | Norma Todd | 11990095 | GBR | ✓ |
+| 28 | Oliver Burrows | | GBR | ✓ |
+| 29 | Benjamin Savoy | | GBR | ✓ |
+| 30 | Selina Steck | 16000028  | SUI | ✓ |
+| 31 | Aidan Robison | 11990028 | GBR | ✓ |
+| 32 | Kevin Lin | | AUS | ✓ |
+
+<!--
+| | Shaun Drury | 11990059 | GBR | |
+| | Piotr Baranowski | 11990098 | GBR | |
+| | Timur Hahn | 05100153 | GER | | -->
 
 ## Directions
 
