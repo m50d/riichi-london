@@ -74,23 +74,23 @@ To register, please email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with
 | 18 | Marcus Völker | 05100157 | GER | ✓ |
 | 19 | Philipp Martin | 05100108 | GER | ✓ |
 | 20 | Tom Wood | 11990073 | GBR | ✓ |
-| 21 | Anthony EA | 04040105 | FRA | |
-| 22 | Olivier CAO | 04160035 | FRA | ✓ |
-| 23 | Birgit Beckett | 11990092 | GER | ✓ |
-| 24 | Nick Dyer | 11990011 | GBR | ✓ |
-| 25 | Paola Bungaro | 11990010 | GBR | ✓ |
-| 26 | Jem Short | 11990084 | GBR | ✓ |
-| 27 | Norma Todd | 11990095 | GBR | ✓ |
-| 28 | Oliver Burrows | | GBR | ✓ |
-| 29 | Benjamin Savoy | | GBR | ✓ |
-| 30 | Selina Steck | 16000028  | SUI | ✓ |
-| 31 | Aidan Robison | 11990028 | GBR | ✓ |
-| 32 | Kevin Lin | | AUS | ✓ |
+| 21 | Olivier CAO | 04160035 | FRA | ✓ |
+| 22 | Birgit Beckett | 11990092 | GER | ✓ |
+| 23 | Nick Dyer | 11990011 | GBR | ✓ |
+| 24 | Paola Bungaro | 11990010 | GBR | ✓ |
+| 25 | Jem Short | 11990084 | GBR | ✓ |
+| 26 | Norma Todd | 11990095 | GBR | ✓ |
+| 27 | Oliver Burrows | | GBR | ✓ |
+| 28 | Benjamin Savoy | | GBR | ✓ |
+| 29 | Selina Steck | 16000028  | SUI | ✓ |
+| 30 | Aidan Robison | 11990028 | GBR | ✓ |
+| 31 | Kevin Lin | | AUS | ✓ |
 
 <!--
 | | Shaun Drury | 11990059 | GBR | |
 | | Piotr Baranowski | 11990098 | GBR | |
-| | Timur Hahn | 05100153 | GER | | -->
+| | Timur Hahn | 05100153 | GER | |
+| | Anthony EA | 04040105 | FRA | | -->
 
 ## Directions
 
