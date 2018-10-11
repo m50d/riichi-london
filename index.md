@@ -134,3 +134,7 @@ The [YHA London Lee Valley](https://www.yha.org.uk/hostel/london-lee-valley) off
 The newly-built [Premier Inn Tottenham Hale](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-tottenham-hale.html) has good standard accomodation within walking distance of Seven Sisters station, a 10-minute direct train journey to/from the tournament venue.
 
 The [Cheshunt Mariott Hotel](https://www.marriott.co.uk/hotels/travel/stnch-cheshunt-marriott-hotel/) is a luxury option, but be warned it's at the other end of Cheshunt (35 minute walk, or a 5-minute bus ride and two 10-minute walks).
+
+## Acknowledgements
+
+Thanks to our friends at G-Research for lending equipment for this tournament.
