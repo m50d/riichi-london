@@ -134,4 +134,4 @@ The [Cheshunt Mariott Hotel](https://www.marriott.co.uk/hotels/travel/stnch-ches
 
 ## Acknowledgements
 
-<img src="/logo_CMYK-inverted.jpg" width="2em" height="2em"></img> Thanks to our friends at ![G-Research](https://www.gresearch.co.uk) for lending equipment for this tournament.
+<img src="/logo_CMYK-inverted.jpg" width="2em" height="2em">Logo</img> Thanks to our friends at [G-Research](https://www.gresearch.co.uk) for lending equipment for this tournament.
