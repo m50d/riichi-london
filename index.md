@@ -17,8 +17,6 @@ A Riichi Mahjong tournament on November 3rd-4th 2018 at the [YHA London Lee Vall
 
 Entry is £60 which includes hot lunches on both days and tea/coffee/biscuits in all breaks.
 
-Limited to 40 players.
-
 ## Schedule
 
 ### Friday November 2nd
@@ -48,7 +46,9 @@ Some of us will attend the [Cheshunt Country Club Fireworks Night](https://www.t
 
 ## Registration
 
-Registration is now closed but there may be limited places available as players drop out. To be added to the waiting list, email [md401@srcf.ucam.org](mailto:md401@srcf.ucam.org) with your name, EMA Number (if you have one), and nationality. Payment is by bank transfer to Michael Donaghy, sort code 11-04-05, account number 01241805; for international transfers you may need IBAN GB36HLFX11040501241805 and/or BIC HLFXGB21L76. Please include your surname and EMA number in the reference for the transfer, and ensure any fees are paid on your side - I recommend [Transferwise](https://transferwise.com/) as it's often cheaper than using a bank for international payment.
+Registration is now closed.
+
+Payment is by bank transfer to Michael Donaghy, sort code 11-04-05, account number 01241805; for international transfers you may need IBAN GB36HLFX11040501241805 and/or BIC HLFXGB21L76. Please include your surname and EMA number in the reference for the transfer, and ensure any fees are paid on your side - I recommend [Transferwise](https://transferwise.com/) as it's often cheaper than using a bank for international payment.
 
 ## Player List
 
@@ -89,10 +89,7 @@ Registration is now closed but there may be limited places available as players 
 | 33 | Shaun Drury | 11990059 | GBR | ✓ |
 | 34 | Anthony EA | 04040105 | FRA | ✓ |
 | 35 | Timur Hahn | 05100153 | GER | ✓ |
-
-## Waiting List / Unpaid
-
-| | Piotr Baranowski | 11990098 | GBR | |
+| 36 | Valentin Courtois | 04310012 | FRA | |
 
 ## Directions
 
