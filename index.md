@@ -48,8 +48,6 @@ Some of us will attend the [Cheshunt Country Club Fireworks Night](https://www.t
 
 Registration is now closed.
 
-Payment is by bank transfer to Michael Donaghy, sort code 11-04-05, account number 01241805; for international transfers you may need IBAN GB36HLFX11040501241805 and/or BIC HLFXGB21L76. Please include your surname and EMA number in the reference for the transfer, and ensure any fees are paid on your side - I recommend [Transferwise](https://transferwise.com/) as it's often cheaper than using a bank for international payment.
-
 ## Player List
 
 | | Name | EMA Number | Nationality | Paid |
@@ -89,7 +87,7 @@ Payment is by bank transfer to Michael Donaghy, sort code 11-04-05, account numb
 | 33 | Shaun Drury | 11990059 | GBR | ✓ |
 | 34 | Anthony EA | 04040105 | FRA | ✓ |
 | 35 | Timur Hahn | 05100153 | GER | ✓ |
-| 36 | Valentin Courtois | 04310012 | FRA | |
+| 36 | Valentin Courtois | 04310012 | FRA | ✓ |
 
 ## Directions
 
