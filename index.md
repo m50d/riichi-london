@@ -86,8 +86,8 @@ Registration is now closed.
 | 32 | Russell Chan | 11990100 | GBR | ✓ |
 | 33 | Shaun Drury | 11990059 | GBR | ✓ |
 | 34 | Anthony EA | 04040105 | FRA | ✓ |
-| 35 | Timur Hahn | 05100153 | GER | ✓ |
-| 36 | Valentin Courtois | 04310012 | FRA | ✓ |
+| 35 | Valentin Courtois | 04310012 | FRA | ✓ |
+| 36 | Dexter Lowe | | GBR | |
 
 ## Directions
 
