@@ -100,7 +100,7 @@ The YHA London Lee Valley ([Google Maps link](https://www.google.co.uk/maps/plac
 
 ### Public Transport
 
-From central London there are fast trains to Cheshunt every 15 minutes from Liverpool Street, taking around 20 minutes - look for trains towards Cambridge, Hertford East or Stansted Airport (trains terminating at Cheshunt are slower stopping services). You can also board these trains at Seven Sisters (Victoria Line) (Tottenham Hale if traveling on Friday 2nd).
+From central London there are fast trains to Cheshunt every 15 minutes from Liverpool Street, taking around 20 minutes - look for trains towards Cambridge, Hertford East or Stansted Airport (trains terminating at Cheshunt are slower stopping services) but some Stansted Airport trains do not stop at Cheshunt. You can also board these trains at Seven Sisters (Victoria Line) (Tottenham Hale if traveling on Friday 2nd).
 
 ### Airports
 
